@@ -1,27 +1,27 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
-traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
+items_tab: 'Предметы'
+events_tab: 'События'
+traits_tab: 'Черты'
+animals_tab: 'Животные'
+weapons_tab: 'Оружие'
 pawn_kinds_tab: 'Pawn Kinds'
 
 # Table headers
 mod_name_header: Mod Name
-author_header: Author
-version_header: Version
-command_name_header: Command Name
-user_level_header: User Level
-description_header: Description
-cost_header: Cost
-category_header: Category
-karma_type_header: Karma Type
+author_header: Автор
+version_header: Версия
+command_name_header: Команда
+user_level_header: Уровень пользователя
+description_header: Описание
+cost_header: Цена
+category_header: Категория
+karma_type_header: Тип кармы
 add_cost_header: Add Cost
 remove_cost_header: Remove Cost
-name_header: Name
+name_header: Название
 
 # Error messages
-no_commands: 'These are not the commands you are looking for.'
+no_commands: 'Нет команд, которые вы ищите.'
 
 # Redirect messages
 see_traits: 'See prices in the traits section'
@@ -29,22 +29,22 @@ see_kinds: 'See prices in the pawn kinds section'
 see_items: 'See prices in the items section'
 
 # Search texts
-search_items: 'Search for items...'
-search_traits: 'Search for traits...'
+search_items: 'Ищем предметы...'
+search_traits: 'Ищем черты...'
 search_pawn_kinds: 'Search for pawn kinds...'
 search_mods: 'Search for mods...'
-search_commands: 'Search for commands...'
-search_animals: 'Search for animals...'
-search_events: 'Search for events...'
-search_weapons: 'Search for weapons...'
+search_commands: 'Ищем команды...'
+search_animals: 'Ищем животных...'
+search_events: 'Ищем события...'
+search_weapons: 'Ищем оружие...'
 
 # Metadata
 usage: 'Usage: %s'
 shortcut: 'This is a shortcut for %s'
 stats: 'Stats'
-conflicts_with: 'Conflicts with'
-from: 'From %s'
-weight: 'Weight'
-limit: 'Limit'
-karma: 'Karma'
-bypasses_limit: 'This trait may exceed the trait limit'
+conflicts_with: 'Конфликтует с'
+from: 'Из %s'
+weight: 'Вес'
+limit: 'Лимит'
+karma: 'Карма'
+bypasses_limit: 'Эта черта может превышать предел черт'
